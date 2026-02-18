@@ -1,4 +1,5 @@
 # TallerPractico
+Integrantes: Dylan Dávila - 506231047 y Julieta Lozano - 506241123
 
 Para poder ejecutar el codigo debera seguir los siguientes pasos.
 
